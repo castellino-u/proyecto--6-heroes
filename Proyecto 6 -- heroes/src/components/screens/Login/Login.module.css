@@ -1,0 +1,20 @@
+.conteinerLogin{
+    width: 100vw;
+    height: 100vh;
+    background: rgb(47, 100, 59);
+background: linear-gradient(90deg, rgb(91, 179, 96) 0%, rgb(164, 206, 147) 98%);
+display: flex;
+justify-content: center;
+align-items: center;
+}
+.conteinerForm{
+    background-color: rgb(45, 45, 45);
+    width: 40%;
+    height: 60%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    border-radius: 0.4rem;
+}
